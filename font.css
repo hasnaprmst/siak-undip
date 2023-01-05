@@ -1,0 +1,94 @@
+.content{
+    width: 100%;
+    position: absolute;
+    top: 46%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: rgb(29, 29, 29)
+}
+.content h1{
+    font-size: 60px;
+    margin-top: 60px;
+}
+.Lulus ul{
+    font-size: 20px;
+    font-weight: bold;
+    color: #957DAD;
+
+    
+}
+.Lulus{
+    width: 100%;
+    position: absolute;
+    top: 25%;
+    right: 21%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: rgb(29, 29, 29)
+
+}
+.Belumskripsi{
+    width: 100%;
+    position: absolute;
+    top: 25%;
+    right: 15%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: rgb(29, 29, 29)
+
+}
+.Belumskripsi ul{
+    font-size: 19px;
+    
+}
+.Urutan{
+    width: 100%;
+    position: absolute;
+    top: 25.5%;
+    left: 15%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: rgb(29, 29, 29)
+
+}
+.Urutan ul{
+    font-size: 15px;
+    
+}
+.satu{
+    width: 100%;
+    position: absolute;
+    top: 85%;
+    left: 10%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: rgb(29, 29, 29)
+
+}
+.lanjut{
+    width: 100%;
+    position: absolute;
+    top: 82%;
+    left: 0%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: rgb(29, 29, 29)
+}
+.dropdown{
+    width: 100%;
+    position: absolute;
+    top: 25.5%;
+    left: 20%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: rgb(29, 29, 29)
+}
+.dropdown ul{
+    font-size: 17px;
+    font-weight: bold;
+    color: #957DAD;
+}
+.Urutan ul{
+    font-size: 15px;
+    
+}
